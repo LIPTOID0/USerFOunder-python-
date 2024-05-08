@@ -53,7 +53,7 @@ print("""
 | |_| \__ \  __/ |    | || (_) | |_| | | | | (_| |  __/ |   
  \___/|___/\___|_|    |_| \___/ \__,_|_| |_|\__,_|\___|_|   
                                                             
-GitHub: https://github.com/Liptoid
+GitHub: https://github.com/LIPTOID0
 Bitcoin Wallet for Donations: bc1qzmd58zt8za7uzjtgngmg99a69gg04f4knk7mm7
 """)
 
