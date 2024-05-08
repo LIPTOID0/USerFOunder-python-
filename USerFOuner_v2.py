@@ -28,7 +28,14 @@ def check_user(username):
         "https://wordpress.com/{}".format(username),
         "https://open.spotify.com/user/{}".format(username),
         "https://www.roblox.com/user.aspx?username={}".format(username),
-        "https://www.wattpad.com/user/{}".format(username)
+        "https://www.wattpad.com/user/{}".format(username),
+        "https://www.amazon.com/hz/wishlist/ls/{}".format(username),
+        "https://www.aliexpress.com/store/{}".format(username),
+        "https://www.linkedin.com/in/{}".format(username),
+        "https://www.youtube.com/channel/{}".format(username),
+        "https://www.happymod.com/profile/{}".format(username),
+        "https://www.messenger.com/t/{}".format(username),
+        "https://www.torproject.org/about/contact.html.en"
     ]
 
     found = False
